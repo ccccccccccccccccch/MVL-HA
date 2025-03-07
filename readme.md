@@ -69,18 +69,7 @@ The following parameters can be customized in `main.py` for different experiment
 
 If you use this code or reference our work, please cite:
 
-```bibtex
-@article{,
-  title   = {},
-  author  = {},
-  journal = {},
-  volume  = {},
-  number  = {},
-  pages   = {},
-  year    = {},
-  doi     = {}
-}
-```
+
 
 ## 🤝 Contributing & Support
 
